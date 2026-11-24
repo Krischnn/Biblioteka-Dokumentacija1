@@ -8,3 +8,5 @@ evidentira posudjivanje i povrat knjiga.
 -Clan biblioteke
 -Bibliotekar
 -Direktor biblioteke
+
+-član može produžiti pozajmicu za 14dana
